@@ -1,0 +1,14 @@
+version: '3'
+services:
+  encrypted_notes:
+    build: ./task
+    container_name: encrypted_notes
+    restart: always
+    ports:
+      - 1337:1337
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: "150M"
+

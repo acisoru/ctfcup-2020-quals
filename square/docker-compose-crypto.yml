@@ -1,0 +1,34 @@
+version: '2.2'
+
+services:
+  square:
+    build: square/service
+    restart: on-failure
+    environment: 
+      - SERVICE_TIMEOUT=5
+    ports:
+      - 7701:31337
+    stop_grace_period: 5s
+    mem_limit: 1G
+    memswap_limit: 1G
+    pids_limit: 4096
+    ulimits: 
+      nofile:
+        soft: 4000
+        hard: 4000
+
+  warmer:
+    build: warmer/service
+    restart: on-failure
+    environment: 
+      - SERVICE_TIMEOUT=5
+    ports:
+      - 7702:31337
+    stop_grace_period: 5s
+    mem_limit: 1G
+    memswap_limit: 1G
+    pids_limit: 4096
+    ulimits: 
+      nofile:
+        soft: 4000
+        hard: 4000

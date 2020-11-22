@@ -1,0 +1,13 @@
+debug/listdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/pbacklogwindow.o
+debug/productbacklog.o
+debug/selecttasksdialog.o
+debug/sprint.o
+debug/sprintwindow.o
+debug/moc_listdialog.o
+debug/moc_mainwindow.o
+debug/moc_pbacklogwindow.o
+debug/moc_selecttasksdialog.o
+debug/moc_sprintwindow.o

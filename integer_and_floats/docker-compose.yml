@@ -1,0 +1,14 @@
+version: '3'
+services:
+  integer_and_floats:
+    build: ./task
+    container_name: integer_and_floats
+    restart: always
+    ports:
+      - 1337:1337
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: "150M"
+

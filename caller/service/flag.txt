@@ -1,0 +1,5 @@
+I believe there are many ways of exploitation...
+
+Please, send me (@keltecc) your exploit. I wonder how exactly did you solve it!
+
+ctfcup{w3ll_d0n3_d34r_pyth0n_h4ck3r}

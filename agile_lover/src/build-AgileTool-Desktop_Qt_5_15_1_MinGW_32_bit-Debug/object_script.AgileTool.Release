@@ -1,0 +1,13 @@
+release/listdialog.o
+release/main.o
+release/mainwindow.o
+release/pbacklogwindow.o
+release/productbacklog.o
+release/selecttasksdialog.o
+release/sprint.o
+release/sprintwindow.o
+release/moc_listdialog.o
+release/moc_mainwindow.o
+release/moc_pbacklogwindow.o
+release/moc_selecttasksdialog.o
+release/moc_sprintwindow.o

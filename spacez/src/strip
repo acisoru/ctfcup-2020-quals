@@ -1,0 +1,10 @@
+countlines
+get_spaces_number
+queue_init
+regs_init
+start_program
+queue_clear
+get_register
+set_register
+queue_insert
+queue_get
