@@ -18,9 +18,9 @@ PWN | [GOverflow](https://github.com/acisoru/ctfcup-2020-quals/tree/master/gover
 PWN | [Integer and floats](https://github.com/acisoru/ctfcup-2020-quals/tree/master//integer_and_floats) | 6 | [@boggda](https://github.com/boggda)
 PWN | [NULLAzino777](https://github.com/acisoru/ctfcup-2020-quals/tree/master/nullazino777) | 3 | [@boggda](https://github.com/boggda)
 PWN | [Caller](https://github.com/acisoru/ctfcup-2020-quals/tree/master/caller) | 2 | [@keltecc](https://github.com/keltecc)
-Forensics | [excel](https://github.com/acisoru/ctfcup-2020-quals/tree/master/excel) | 11 | 
+Forensics | [Excel](https://github.com/acisoru/ctfcup-2020-quals/tree/master/excel) | 14 | 
 Forensics | [Implant](https://github.com/acisoru/ctfcup-2020-quals/tree/master/implant) | 59 | 
-Forensics | [NPR](https://github.com/acisoru/ctfcup-2020-quals/tree/master/npr) | 43 | 
+Forensics | [NPR](https://github.com/acisoru/ctfcup-2020-quals/tree/master/npr) | 1 | 
 Forensics | [RDP](https://github.com/acisoru/ctfcup-2020-quals/tree/master/rdp) | 27 | 
 Forensics | [TrueMaster](https://github.com/acisoru/ctfcup-2020-quals/tree/master/truemaster) | 23 |
 Crypto | [Alone](https://github.com/acisoru/ctfcup-2020-quals/tree/master/alone) | 0 | [@keltecc](https://github.com/keltecc)
